@@ -1,5 +1,6 @@
 # Pickl3
 Pickl3 is Windows active user credential phishing tool. You can execute the Pickl3 and phish the target user credential.
+![](https://raw.githubusercontent.com/hlldz/pickl3/master/pickl3.png)
 
 ## Operational Usage - 1
 Nowadays, since the operating system of many end users is Windows 10, we cannot easily steal account information with Mimikatz-like projects like the old days. Using Pickl3, you can try to steal the account information of the active user without escalating the privileges.
